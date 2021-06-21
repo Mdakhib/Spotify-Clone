@@ -48,7 +48,7 @@ function App() {
   console.log('MD',user)
   console.log("Token", token);
 
-  return <div>{token ? <Player /> : <Login />}</div>;
+  return <div>{token ? <Player  /> : <Login />}</div>;
 }
 
 export default App;
