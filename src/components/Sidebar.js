@@ -30,10 +30,10 @@ function Sidebar() {
         ))}
 
         {console.log('playlist',playlists)}
-{/* 
-        <SidebarOption title="Hip Hop" />
-        <SidebarOption title="Rock" />
-        <SidebarOption title="RnB" /> */}
+
+        <SidebarOption title="Bollywood Songs" />
+        {/* <SidebarOption title="Rock" /> */}
+        {/* <SidebarOption title="RnB" /> */}
       </div>
     );
 }
