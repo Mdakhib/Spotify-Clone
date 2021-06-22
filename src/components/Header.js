@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import { Search } from "@material-ui/icons";
 import React from "react";
 import "../styles/header.css";

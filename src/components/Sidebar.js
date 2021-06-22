@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import { Home, LibraryMusic, Search } from '@material-ui/icons';
 import React from 'react'
 import { useDataLayerValue } from "../DataLayer";
